@@ -4,6 +4,7 @@ A cost-effective fire detection system using Arduino for flame sensing and SIM90
 
  "Every second matters when a fire breaks out! 
 How can technology make response times faster?" 
+
 ![image](https://github.com/user-attachments/assets/1b53c25c-d034-48dd-9e9f-2b4dbf181dc4)
 
 - *What we have?*
