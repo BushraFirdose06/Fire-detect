@@ -5,7 +5,11 @@ A cost-effective fire detection system using Arduino for flame sensing and SIM90
  "Every second matters when a fire breaks out! 
 How can technology make response times faster?" 
 
-![Demo Preview](images/Iot_Project.png)
+![Fire Alert System Project]
+
+<p align="center">
+  <img src="Images/Iot%20Project.png" alt="IoT Project Demo" width="500"/>
+</p>
 
 
 - *What we have?*
