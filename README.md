@@ -5,7 +5,8 @@ A cost-effective fire detection system using Arduino for flame sensing and SIM90
  "Every second matters when a fire breaks out! 
 How can technology make response times faster?" 
 
-![image](Images/Iot Project.png)
+![Demo Preview](images/Iot_Project.png)
+
 
 - *What we have?*
 IoT Fire Alerting System using Arduino & SIM900A," is an innovative fire detection system designed to provide real-time alerts when a fire is detected. Unlike traditional fire alarms that only sound within a building, our system sends SMS alerts and makes phone calls to emergency contacts, ensuring immediate response.
